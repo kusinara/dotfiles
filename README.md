@@ -10,7 +10,7 @@
 - xf86-input-synaptics
 - neovim
 
-## TODO
+## todo
 - [ ] playbook for deps
 - [ ] playbook for moving dotfiles
 - [ ] playbook for dmw/st
