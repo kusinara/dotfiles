@@ -13,4 +13,4 @@
 ## todo
 - [ ] playbook for deps
 - [ ] playbook for moving dotfiles
-- [ ] playbook for dmw/st
+- [ ] playbook for dmw/st (holding off because I started using fedora/kde because of gripes with arch)
