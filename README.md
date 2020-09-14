@@ -1,4 +1,5 @@
 # sorted in tree structure
+I recently switched to Fedora/KDE because I got irritated with the Arch linux project, Arch maintainers and developers, and the package manager, so this will probably be on hold indefinitely.
 
 ## deps
 - light (aur)
@@ -13,4 +14,4 @@
 ## todo
 - [ ] playbook for deps
 - [ ] playbook for moving dotfiles
-- [ ] playbook for dmw/st (holding off because I started using fedora/kde because of gripes with arch)
+- [ ] playbook for dmw/st
